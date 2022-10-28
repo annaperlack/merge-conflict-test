@@ -1,3 +1,3 @@
 # merge-conflict-test
 
-Some local change 
+Some local change!
